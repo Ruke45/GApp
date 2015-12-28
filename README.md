@@ -1,0 +1,2 @@
+# GApp
+My Genatic Algorithm 
