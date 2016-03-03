@@ -1,0 +1,10 @@
+c:\users\ruke\documents\visual studio 2012\Projects\TileApplication\TileApplication\bin\Debug\TileApplication.exe.config
+C:\Users\Ruke\Documents\Visual Studio 2012\Projects\TileApplication\TileApplication\bin\Debug\TileApplication.exe
+C:\Users\Ruke\Documents\Visual Studio 2012\Projects\TileApplication\TileApplication\bin\Debug\TileApplication.pdb
+C:\Users\Ruke\Documents\Visual Studio 2012\Projects\TileApplication\TileApplication\obj\Debug\TileApplication.csprojResolveAssemblyReference.cache
+C:\Users\Ruke\Documents\Visual Studio 2012\Projects\TileApplication\TileApplication\obj\Debug\TileApplication.Login.resources
+C:\Users\Ruke\Documents\Visual Studio 2012\Projects\TileApplication\TileApplication\obj\Debug\TileApplication.MainForm.resources
+C:\Users\Ruke\Documents\Visual Studio 2012\Projects\TileApplication\TileApplication\obj\Debug\TileApplication.Properties.Resources.resources
+C:\Users\Ruke\Documents\Visual Studio 2012\Projects\TileApplication\TileApplication\obj\Debug\TileApplication.csproj.GenerateResource.Cache
+C:\Users\Ruke\Documents\Visual Studio 2012\Projects\TileApplication\TileApplication\obj\Debug\TileApplication.exe
+C:\Users\Ruke\Documents\Visual Studio 2012\Projects\TileApplication\TileApplication\obj\Debug\TileApplication.pdb
